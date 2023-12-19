@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-image: url(https://cdn.iset.io/assets/55268/produtos/24488/1bff3d03f8f7b63185cf7fa9ca02062e637f649666f9b.png);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+h1{
+    font-size: 55px;
+    font-family: Rubik Bubbles;
+    color: rgb(52, 4, 64);
+    padding-bottom: 2px;
+}
+
+img{
+    max-width: 500px;
+    font-size: medium;
+    border-radius: 10%;
+}
+
+h4{
+    font-size: large;
+    margin-top: 15%;
+}
